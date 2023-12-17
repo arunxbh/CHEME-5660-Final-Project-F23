@@ -12,6 +12,13 @@ This project explores three main things:
 
 3. **Covered Call Strategy for Volatility Hedge**: Implement a covered call strategy on a subset of the reallocation portfolio to hedge against market volatility. The strategy involves calculating the probability of options being exercised based on historical market data, enabling a more defensive portfolio stance against volatile tech equities.
 
+## External Documentation
+
+The DCF for calculating the endowment and costs associated with the medical facility included in the project as well as the final report can be found in the repo or at the following links:
+
+1. [DCF](https://docs.google.com/spreadsheets/d/1XS1HgYLhxhIHia_Z2uE9SIGBzpLtRxWT7KB1kfH22Bg/edit?usp=sharing)
+2. [Final Report](https://www.overleaf.com/read/bbmkbmrrzdpk#15c01f)
+
 ## Disclaimer and Risks
 __This content is offered solely for training and  informational purposes__. No offer or solicitation to buy or sell securities or derivative products, or any investment or trading advice or strategy,  is made, given, or endorsed by the teaching team. 
 
